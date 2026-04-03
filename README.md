@@ -1,4 +1,3 @@
-# NAVKALPANA-RICR-NK-0046
 # CardioShield AI
 AI-Powered Early Cardiovascular Risk Detection
 
@@ -116,5 +115,7 @@ CardioShield AI aims to provide a proactive cardiovascular risk prediction syste
 
 - Clinical Dataset Expansion
 
+## Live demo-
+https://early-heart-risk-estimation.onrender.com
 # Conclusion
 CardioShield AI demonstrates how ensemble machine learning can be leveraged for early cardiovascular risk prediction, enabling proactive intervention and potentially saving lives
